@@ -1,16 +1,7 @@
-# flutter_painter
+# 简易画板
 
-A new Flutter project.
+main: 初始代码，仅实现了黑色线条绘制
 
-## Getting Started
+chormePlugin: 包含谷歌扩展插件相关代码
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+color-painter: 增加了颜色按钮
